@@ -1,0 +1,33 @@
+* {
+    font-family: $fontL;
+}
+
+#navbarNav {
+    .fuentesNav {
+        font-size: $textogrande;
+        padding-left: 3rem;
+    }
+}
+
+//fondo
+.fondo {
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-height: 100%;
+}
+
+//body
+body {
+    font-family:$fontL;
+    font-size: $parrafos;
+    background-image: url(../img/Fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px;
+}
+footer {
+    position: absolute;
+    display: flex;
+    font-size: $parrafos;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
