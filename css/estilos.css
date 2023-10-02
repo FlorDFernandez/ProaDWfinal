@@ -16,6 +16,7 @@ body {
     background-image: url(../img/Fondo.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
+    overflow-x: hidden;
 }
 /*HEDER*/
 .TamLogo {
@@ -101,7 +102,7 @@ img {
     }
 }
 .teEsperamos {
-    position: lefet;
+    position: left;
     font-family: 'Lora', serif;
     color: black;
     padding-left: 3rem;
