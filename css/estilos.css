@@ -13,9 +13,9 @@ html {
 body {
     font-family: 'Lora', serif;
     font-size: 1.5rem;
-    background-image: url(./img/Fondo.jpg);
+    background-image: url(../img/Fondo.jpg);
     background-repeat: no-repeat;
-    background-size: 1550px;
+    background-size: 100%;
 }
 /*HEDER*/
 .TamLogo {
@@ -106,4 +106,3 @@ img {
     color: black;
     padding-left: 3rem;
 }
-
